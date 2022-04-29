@@ -1,0 +1,43 @@
+#cont{
+    height: 100px;
+    width: 90%;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid red;
+    
+}
+
+#per_one,#per_two,#per_three,#win{
+    /* border: 1px solid blue; */
+    text-align: center;
+    margin: auto;
+    font-size: 20px ;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#member-1,#member-2,#member-3,#winner{
+height: 70px;
+border: 1px solid black;
+width: 150px;
+display: flex;
+text-align: center;
+justify-content: center;
+margin: auto;
+
+align-items: center;
+/* margin-top: ; */
+}
+#btn button{
+    margin-left:620px;
+}
+#roll{
+height: 90px;
+height: 50px;
+margin: auto;
+font-size: 20px;
+font-weight: bold;
+background-color: #cecece;
+}
